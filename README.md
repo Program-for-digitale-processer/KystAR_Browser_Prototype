@@ -1,2 +1,3 @@
 # KystAR_Browser_Prototype
-The Unity WebGL project for Køge Bugt
+Not to be copied and distributed without permission.
+The Unity WebGL project for Køge Bugt.
